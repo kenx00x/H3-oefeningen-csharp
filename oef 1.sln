@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unicode Art Colors", "Unicode Art Colors\Unicode Art Colors.csproj", "{C2B38178-2C37-4BF3-99B0-EED38CF2EF08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Systeem informatie", "Systeem informatie\Systeem informatie.csproj", "{603B18E9-10C3-4F99-9C46-E9EF4D473C7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weerstandberekenaar", "Weerstandberekenaar\Weerstandberekenaar.csproj", "{9E6EBD7B-6DDD-4046-B7AF-E9D9BB55245E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shell-starter", "Shell-starter\Shell-starter.csproj", "{5E5FF4B2-35DD-4DEA-B03F-BCDEBD5493D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unicode_Art", "Unicode_Art\Unicode_Art.csproj", "{08F1E813-5A37-40F6-9AAB-F6FD1FBC84E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String interpolation", "String interpolation\String interpolation.csproj", "{39AC08E2-67F2-45A6-B3F3-B7483CFCF070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B38178-2C37-4BF3-99B0-EED38CF2EF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B38178-2C37-4BF3-99B0-EED38CF2EF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B38178-2C37-4BF3-99B0-EED38CF2EF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B38178-2C37-4BF3-99B0-EED38CF2EF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603B18E9-10C3-4F99-9C46-E9EF4D473C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603B18E9-10C3-4F99-9C46-E9EF4D473C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603B18E9-10C3-4F99-9C46-E9EF4D473C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603B18E9-10C3-4F99-9C46-E9EF4D473C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6EBD7B-6DDD-4046-B7AF-E9D9BB55245E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6EBD7B-6DDD-4046-B7AF-E9D9BB55245E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6EBD7B-6DDD-4046-B7AF-E9D9BB55245E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6EBD7B-6DDD-4046-B7AF-E9D9BB55245E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5FF4B2-35DD-4DEA-B03F-BCDEBD5493D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5FF4B2-35DD-4DEA-B03F-BCDEBD5493D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5FF4B2-35DD-4DEA-B03F-BCDEBD5493D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5FF4B2-35DD-4DEA-B03F-BCDEBD5493D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F1E813-5A37-40F6-9AAB-F6FD1FBC84E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F1E813-5A37-40F6-9AAB-F6FD1FBC84E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F1E813-5A37-40F6-9AAB-F6FD1FBC84E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F1E813-5A37-40F6-9AAB-F6FD1FBC84E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39AC08E2-67F2-45A6-B3F3-B7483CFCF070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AC08E2-67F2-45A6-B3F3-B7483CFCF070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AC08E2-67F2-45A6-B3F3-B7483CFCF070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AC08E2-67F2-45A6-B3F3-B7483CFCF070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F588DA7F-2704-4C26-9586-C54CFAA4803C}
+	EndGlobalSection
+EndGlobal
